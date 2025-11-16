@@ -1,0 +1,9 @@
+Final Project Written Proposal 
+
+The proposed project is a Task Management Application designed to help users organize, track, and manage tasks efficiently. Many individuals struggle with staying consistent, prioritizing work, and keeping deadlines organized across multiple platforms. This application solves that problem by providing a simple, centralized interface for managing daily responsibilities.
+
+The target users include students, working professionals, and general users who need an easy way to record tasks, update progress, and mark items as complete. The core features include the ability to create, edit, delete, and complete tasks. Future planned enhancements include user accounts, reminders, and category tagging.
+
+The technology stack will include Python Flask for the backend, HTML/CSS/JavaScript for the frontend, and SQLite for the database. The project will run in a Docker container, include CI/CD automation, and be deployed to Google Cloud. AI tools like GitHub Copilot and ChatGPT will assist in debugging, planning, and accelerating development.
+
+This project will follow Agile methodologies, with Jira used to plan epics, user stories, and sprints. The initial focus will be delivering a functional MVP with core task features.
